@@ -6,3 +6,11 @@ body {
 .title {
 	color:red;
 }
+
+.animaltypes {
+	float:left;
+}
+
+#containerforalltheanimals {
+	border: 1px solid black;
+}
